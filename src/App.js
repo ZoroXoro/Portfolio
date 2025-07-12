@@ -3,7 +3,8 @@ import { Banner } from './components/Banner';
 import { Skills } from './components/skills';
 import { Projects } from './components/Projects';
 import { Contact } from "./components/Contact";
-// import { Footer } from "./components/Footer";
+import { AboutMe } from "./components/About-Me";
+import { Footer } from "./components/Footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import './App.css';
@@ -15,8 +16,9 @@ function App() {
       <Banner/>
       <Skills/>
       <Projects/>
+      <AboutMe/>
       <Contact/>
-      {/* <Footer/> */}
+      <Footer/>
     </div>
   );
 }

@@ -28,8 +28,8 @@ export const Projects = () => {
         imgurl:projImg3,
       },
       {
-        title: "Languge-tutor",
-        description:"Basic Android application to learn new langugaes created in android Studio using Kotlin",
+        title: "LOLO",
+        description:"An business app created with flutter and firebase, for managing products and other services for their customers",
         imgurl:projImg1,
       },
       {

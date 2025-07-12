@@ -1,9 +1,14 @@
 import { Container,Row,Col } from "react-bootstrap";
 import { useState,useEffect } from "react";
-import { ArrowRightCircle } from "react-bootstrap-icons";
+import { ArrowRightCircle, ArrowRightSquare } from "react-bootstrap-icons";
 import headerImg from '../assets/img/header-img.png'
+// import {motion} from 'framer-motion';
 
 export const Banner =()=> {
+    const [activeLink, setActiveLink] = useState('home');
+const onUpdateActiveLink =(value) => {
+        setActiveLink(value);
+    }
     const [loopNum,setLoopNum] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
     const toRotate = ['Web Developer','App Developer','Web Designer'];
@@ -48,7 +53,14 @@ export const Banner =()=> {
         <span className="tagline">Welcome to my Portfolio</span>
         <h1>{''}<span className="wrap">{text}</span></h1>
         <p></p>
-        <button onClick={()=> console.log('connect')}>Let's Connect <ArrowRightCircle size={25}></ArrowRightCircle></button>
+        <button
+              className={activeLink === 'connect' ? 'active navbar-link' : 'navbar-link'}
+              onClick={() => onUpdateActiveLink('connect')}
+            >
+              <a href="#connect" style={{ color: 'inherit', textDecoration: 'none' }}>
+                <span>Let's Connect </span>
+              </a>
+            <ArrowRightCircle/></button>
         </Col>
         <Col xs={12} md={6} xl={5}>
         <img src={headerImg} alt='Header img'/>
