@@ -1,35 +1,38 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.3fac9cf3.css",
-    "main.js": "/Portfolio/static/js/main.95765717.js",
-    "static/js/453.ed3810f9.chunk.js": "/Portfolio/static/js/453.ed3810f9.chunk.js",
+    "main.js": "/Portfolio/static/js/main.23576e83.js",
+    "static/js/453.68693753.chunk.js": "/Portfolio/static/js/453.68693753.chunk.js",
+    "static/media/project-img3.png": "/Portfolio/static/media/project-img3.969629a27bef2c3a4388.png",
+    "static/media/project-img2.png": "/Portfolio/static/media/project-img2.9fa8b2c465a86378c737.png",
     "static/media/color-sharp.png": "/Portfolio/static/media/color-sharp.eefb8e8c7487f090fdeb.png",
     "static/media/color-sharp2.png": "/Portfolio/static/media/color-sharp2.ac04cebbf907667bb691.png",
-    "static/media/project-img5.png": "/Portfolio/static/media/project-img5.1414b0be5b0a6920c19b.png",
+    "static/media/project-img5.png": "/Portfolio/static/media/project-img5.e4a8e08ebfaeb1775ba6.png",
     "static/media/banner-bg.png": "/Portfolio/static/media/banner-bg.b6368def8dfd609481e5.png",
     "static/media/header-img.png": "/Portfolio/static/media/header-img.1deb99107ccec78864a0.png",
     "static/media/footer-bg.png": "/Portfolio/static/media/footer-bg.51ce20cfd83d0f478758.png",
-    "static/media/project-img2.png": "/Portfolio/static/media/project-img2.9df79ff1e557722df9d1.png",
-    "static/media/project-img3.png": "/Portfolio/static/media/project-img3.272cf56c9a189d6f310d.png",
     "static/media/contact-img.png": "/Portfolio/static/media/contact-img.63c32e4ed41c8c15fa24.png",
     "static/media/CentraNo2-Bold.ttf": "/Portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/project-img1.png": "/Portfolio/static/media/project-img1.cca2d6e166aa962b10f5.png",
+    "static/media/science.png": "/Portfolio/static/media/science.8fa476a9a466108da157.png",
+    "static/media/coder-at-desk.jpeg": "/Portfolio/static/media/coder-at-desk.aac7ffba3548191a1c0c.jpeg",
     "static/media/github.png": "/Portfolio/static/media/github.a855c3975c028d8069f5.png",
-    "static/media/meter2.png": "/Portfolio/static/media/meter2.178ba0c459e4ce60b67f.png",
-    "static/media/meter3.png": "/Portfolio/static/media/meter3.1c2f90506b882495af0e.png",
-    "static/media/meter1.png": "/Portfolio/static/media/meter1.434eb2dcee0b447ff2b5.png",
+    "static/media/firebase.png": "/Portfolio/static/media/firebase.7d052253fb054f9ae2b4.png",
+    "static/media/figma.png": "/Portfolio/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/html-5.png": "/Portfolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
     "static/media/revicons.eot": "/Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/js.png": "/Portfolio/static/media/js.3dfb665e058d08c99f28.png",
     "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Portfolio/index.html",
     "main.3fac9cf3.css.map": "/Portfolio/static/css/main.3fac9cf3.css.map",
-    "main.95765717.js.map": "/Portfolio/static/js/main.95765717.js.map",
-    "453.ed3810f9.chunk.js.map": "/Portfolio/static/js/453.ed3810f9.chunk.js.map"
+    "main.23576e83.js.map": "/Portfolio/static/js/main.23576e83.js.map",
+    "453.68693753.chunk.js.map": "/Portfolio/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fac9cf3.css",
-    "static/js/main.95765717.js"
+    "static/js/main.23576e83.js"
   ]
 }
